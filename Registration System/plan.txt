@@ -1,0 +1,3 @@
+step 1: User Registration [Input User deatails (Name, Email), Save the details giving that user an unique ID.] ✔
+step2: Data Management [View All Users (Read and Display the data from the Excel file), Update User Info (Existing in the Excel file), Delete User] ✔
+step3: Show total user numbers. ✔
